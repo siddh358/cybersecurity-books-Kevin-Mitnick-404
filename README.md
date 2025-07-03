@@ -7,7 +7,7 @@ This repository contains curated notes, summaries, and key takeaways from popula
 ### 📖 Kevin Mitnick
 - [The Art of Invisibility](./Kevin_Mitnick/The_Art_of_Invisibility.md)
 - [The Art of Intrusion](./Kevin_Mitnick/The_Art_of_Intrusion.md)
-- [The Art of Deception](./Kevin_Mitnick/The_Art_of_Deception.md)
+- [The Art of Deception](./The_Art_of_Deception_Controlling_the_Human_Element_of_Security_by.pdf)
 - [Ghost in the Wires](./Ghost_in_the_Wires_My_Adventures_as_the_World's_Most_Wanted_Hacker.pdf)
 
 ### 🔧 Other
